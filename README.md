@@ -1,6 +1,6 @@
 ---
 
-<p align="center"><img src="echopen-foundation_logo.png" width="30%"/></p>
+[<p align="center"><img src="echopen-foundation_logo.png" width="30%"/></p>](http://www.echopen.org)
 
 ---
 
