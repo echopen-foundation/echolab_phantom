@@ -1,6 +1,6 @@
 # echʘlab Phantom
 
-<p align="center"><img src="/echopen-foundation/echolab_phantom/blob/main/docs/img/step_25.jpg" alt="Project picture" width="30%" /></p>
+<p align="center"><img src="https://github.com/echopen-foundation/echolab_phantom/blob/main/docs/img/step_25.jpg" alt="Project picture" width="30%" /></p>
 
 | Completion date | 2020-08-31 |
 | :---------------------- | ------------------------------------------------------ |
