@@ -8,9 +8,9 @@
 
 This project presents the simple realisation of an ultrasound phantom from cheap and easily obtainable commercial ingredients.
 
-Find source files here : https://github.com/echopen-foundation/echolab-phantom
+Find source files here : https://github.com/echopen-foundation/echolab_phantom
 
-Find documentation here : https://github.com/echopen-foundation/echolab-phantom/wiki
+Find documentation here : https://github.com/echopen-foundation/echolab_phantom/wiki
 
 <p align="center"><img src="look@me.jpg" width="30%"/></p>
 
